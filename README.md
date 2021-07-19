@@ -4,7 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/johnson1205?style=flat-square)](https://github.com/johnson1205)
 
 - 本名：李昶昇
-- 學歷：成功高中、**臺灣科技大學資工系**
+- 學歷：成功高中、**臺灣科技大學電資學士班**
 - 興趣：程式、騎腳踏車、玩GAME、研究人文地理間交互作用
 - 專長：**C++**、**Photoshop**、**影片製作**
 
