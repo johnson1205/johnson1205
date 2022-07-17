@@ -4,7 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/johnson1205?style=flat-square)](https://github.com/johnson1205)
 
 - 本名：李昶昇
-- 學歷：成功高中、**臺灣科技大學電資學士班**
+- 學歷：成功高中、**臺灣科技大學電資學士班**->**資訊工程系**
 - 專長：**C/C++**、**Photoshop**、**影片製作**
 
 # 特殊經歷
