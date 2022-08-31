@@ -14,9 +14,3 @@
 - 校內數理與程式競賽佳作
 - 校內地球科學奧林匹亞競賽一等獎，代表學校參加校隊
 - USCOJ 基礎組佳作
-
-# 作品
-
-- 
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=johnson1205&show_icons=true&locale=en&layout=compact)](https://github.com/johnson1205)
