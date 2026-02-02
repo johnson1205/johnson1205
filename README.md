@@ -10,8 +10,3 @@
   - Taipei Municipal Chenggong High School
 
 For detailed information, please refered to my [personal website](https://johnson1205.github.io) 
-
-# Repo
-- [Equation-Drawing](https://github.com/johnson1205/Equation-Drawing): A GUI tool that helps you draw a formula on graph
-- [GIS](https://github.com/johnson1205/GIS): A website display all bus stations and routes in Taipei–Keelung metropolitan area
-- [guess_streetview](https://github.com/johnson1205/guess_streetview): A reproduction of Geoguessr
