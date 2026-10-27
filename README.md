@@ -4,7 +4,7 @@
 [![Followers](https://img.shields.io/github/followers/johnson1205?style=flat-square)](https://github.com/johnson1205)
 
 - name: **Chang-Sheng Lee (李昶昇)**
-- Current Position: **MS, Computer Science and Engineering, University of California San Diego
+- Current Position: **MS, Computer Science and Engineering, University of California San Diego**
 - Experience:
   - Research Assistant, Institute of Information Science, Academia Sinica
 - Education:
